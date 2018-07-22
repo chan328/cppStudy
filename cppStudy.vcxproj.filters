@@ -32,6 +32,18 @@
     <ClCompile Include="Using.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="space.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="inline.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="unnamedNamespace.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="bool.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
     <ClCompile Include="소스.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
